@@ -1,11 +1,32 @@
-# Music Store Database  
+# 📊 Music Store SQL Analysis
 
-This repository contains the **SQL script** for the Music Store database.  
+This project is a practice-based SQL analysis using a simulated **Music Store database**, focused on strengthening core data querying and business logic skills.  
 
-## 📜 SQL Script  
-You can find the SQL script here: [music_store.sql](music_store.sql)  
+---
 
-## 🏛 Database Schema  
-Below is the schema for the database:  
+## 🔍 Objective  
+To explore a relational database using **basic to intermediate SQL queries** and answer real-world business questions related to customers, sales, and product data.
 
-![Database Schema](schema.png)
+---
+
+## 🧠 Skills Practiced
+- `SELECT`, `WHERE`, `DISTINCT`  
+- `GROUP BY`, `ORDER BY`, `HAVING`  
+- `JOIN` (INNER JOIN, LEFT JOIN)  
+- Aggregations (`COUNT`, `SUM`, `AVG`)  
+- Filtering and logical conditions  
+
+---
+
+## 📌 Sample Business Questions Explored:
+- Who are the top 5 highest-paying customers?  
+- What are the total sales by genre?  
+- Which countries have the most customers?  
+- What’s the average invoice amount by country?  
+- How many customers have purchased each genre?
+
+---
+
+
+## 🧾 Status:  
+✅ Completed – personal learning project
